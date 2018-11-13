@@ -496,8 +496,7 @@
         </profile>
     </profiles>
 	
-<servers>
-   	 <server>
+
 		
 		<repository>
 			<id>Demo</id>
@@ -505,8 +504,7 @@
 			<url>http://localhost:8081/repository/Demo/</url>
 		</repository>
 		
-	 </server>
-  </servers>
+	
 	
 	
 </project>
