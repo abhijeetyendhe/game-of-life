@@ -496,15 +496,4 @@
         </profile>
     </profiles>
 	
-
-		
-		<repository>
-			<id>Demo</id>
-			<name>Demo</name>
-			<url>http://localhost:8081/repository/Demo/</url>
-		</repository>
-		
-	
-	
-	
 </project>
